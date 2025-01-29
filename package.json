@@ -15,7 +15,9 @@
     "postcss": "^8.5.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwindcss": "^4.0.0"
+    "sat": "^0.9.0",
+    "tailwindcss": "^4.0.0",
+    "underscore": "^1.13.7"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
